@@ -1,4 +1,4 @@
-package test;
+package java.algorithm;
 
 public class Node {
         public Node pre;

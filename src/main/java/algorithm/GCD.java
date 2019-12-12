@@ -1,4 +1,4 @@
-package test;
+package java.algorithm;
 
 /***
  * 两个数的最大公约数

@@ -1,4 +1,4 @@
-package test;
+package java.algorithm;
 /**
  * 删除整数的k个数字 获得删除后的最小值
  * **/
